@@ -5,7 +5,7 @@
 - 📫 Me contate em: guilhermealeixo1904@gmail.com
 
 <div align="center"> <!--informações do usuário-->
-  <a href="https://t.me/Ganaleixo">
+  <a href="https://api.whatsapp.com/send?phone=5521997180733&text=Ol%C3%A1%2C%20Guilherme.%20Consegui%20seu%20n%C3%BAmero%20pelo%20seu%20GitHub.">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-010&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-010&layout=compact&langs_count=7&theme=onedark"/>
 </div>
